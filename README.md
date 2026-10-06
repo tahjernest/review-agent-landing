@@ -22,6 +22,6 @@ Static site, no framework. On Vercel: import the repo, leave framework as
 "Other", output directory = root. Nothing to build.
 
 ## Before going live
-- [ ] Replace `hello@4thepeoplesolutions.com` with the real contact
+- [x] Real contact email: ebonee@4thepeoplecommunity.com
 - [ ] Swap the mailto CTA for a real booking link (Calendly, etc.)
-- [ ] Add real logo + favicon
+- [x] Real logo + favicon added (logo.png, favicon.png)
